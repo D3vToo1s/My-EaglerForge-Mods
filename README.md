@@ -1,2 +1,2 @@
 # My-EaglerForge-Mods
-A list of EaglerForge mods made by me
+- The inferno hammer mod adds a hammer that is extremely powerful and destructive, use at your own risk in survival...
